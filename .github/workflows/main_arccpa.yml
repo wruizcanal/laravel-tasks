@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'arccpa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35676D6C1A0D48AEA14E63D1A2DE147B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_977B4B2FC79448F2B0BCD87C77E297E7 }}
           package: .
